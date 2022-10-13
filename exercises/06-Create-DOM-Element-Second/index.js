@@ -1,3 +1,5 @@
 //you code here
-document.body.innerHTML = "<h1>Hello World</h1>";
+let text= "Hello World";
+let img="<img src=https://via.placeholder.com/350x150>";
+document.body.innerHTML = "<h1>"+text+"</h1>"+img;
 
